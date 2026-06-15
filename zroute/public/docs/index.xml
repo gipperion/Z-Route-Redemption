@@ -1,0 +1,292 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z-Route Redemption – Руководство по Z-Route</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Руководство по Z-Route on Z-Route Redemption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Атака пожирателей</title>
+      <link>http://localhost:1313/docs/events/eaters_attack/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/eaters_attack/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Безумие экспедиции</title>
+      <link>http://localhost:1313/docs/events/expedition_battle/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/expedition_battle/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Битва альянсов</title>
+      <link>http://localhost:1313/docs/events/aliiance_battle/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/aliiance_battle/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Битва за Пандору</title>
+      <link>http://localhost:1313/docs/events/pandora/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/pandora/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Гигантский захватчик</title>
+      <link>http://localhost:1313/docs/events/giant_invader/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/giant_invader/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Засада альянса</title>
+      <link>http://localhost:1313/docs/events/aliiance_boss/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/aliiance_boss/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Зомби</title>
+      <link>http://localhost:1313/docs/map_objects/zombies/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/zombies/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Как правильно строить</title>
+      <link>http://localhost:1313/docs/buildings/how_to_build/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/buildings/how_to_build/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Как правильно формировать отряды</title>
+      <link>http://localhost:1313/docs/pve/make_groups/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/pve/make_groups/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Как правильно формировать отряды</title>
+      <link>http://localhost:1313/docs/pvp/make_goups/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/pvp/make_goups/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Наблюдатели</title>
+      <link>http://localhost:1313/docs/map_objects/observers/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/observers/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Общая информация</title>
+      <link>http://localhost:1313/docs/overview/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/overview/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Пожиратели</title>
+      <link>http://localhost:1313/docs/map_objects/eaters/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/eaters/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Правила альянсов</title>
+      <link>http://localhost:1313/docs/alliances/rules/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/alliances/rules/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Приоритеты</title>
+      <link>http://localhost:1313/docs/buildings/priors/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/buildings/priors/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Прокачка</title>
+      <link>http://localhost:1313/docs/army/leveling/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/army/leveling/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Ресурсы</title>
+      <link>http://localhost:1313/docs/map_objects/resources/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/resources/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Солдаты</title>
+      <link>http://localhost:1313/docs/army/soldiers/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/army/soldiers/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Формирование отрядов</title>
+      <link>http://localhost:1313/docs/army/heroes/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/army/heroes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Ящики и поезда</title>
+      <link>http://localhost:1313/docs/map_objects/crates_and_trains/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/crates_and_trains/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Ящики спецопераций</title>
+      <link>http://localhost:1313/docs/map_objects/crates/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/map_objects/crates/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

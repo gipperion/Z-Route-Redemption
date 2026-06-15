@@ -1,0 +1,97 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z-Route Redemption – События</title>
+    <link>http://localhost:1313/docs/events/</link>
+    <description>Recent content in События on Z-Route Redemption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Атака пожирателей</title>
+      <link>http://localhost:1313/docs/events/eaters_attack/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/eaters_attack/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Безумие экспедиции</title>
+      <link>http://localhost:1313/docs/events/expedition_battle/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/expedition_battle/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Битва альянсов</title>
+      <link>http://localhost:1313/docs/events/aliiance_battle/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/aliiance_battle/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Битва за Пандору</title>
+      <link>http://localhost:1313/docs/events/pandora/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/pandora/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Гигантский захватчик</title>
+      <link>http://localhost:1313/docs/events/giant_invader/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/giant_invader/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Засада альянса</title>
+      <link>http://localhost:1313/docs/events/aliiance_boss/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/events/aliiance_boss/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

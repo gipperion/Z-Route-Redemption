@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z-Route Redemption – PvP</title>
+    <link>http://localhost:1313/docs/pvp/</link>
+    <description>Recent content in PvP on Z-Route Redemption</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/pvp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Как правильно формировать отряды</title>
+      <link>http://localhost:1313/docs/pvp/make_goups/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/docs/pvp/make_goups/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

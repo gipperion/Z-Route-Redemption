@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Z-Route Redemption'
+theme = 'hextra'
+
+[menu]
+[[menu.main]]
+name = "Руководство"
+pageRef = "/docs"
+weight = 1
+
+[[menu.main]]
+name = "О проекте"
+pageRef = "/about"
+weight = 2
