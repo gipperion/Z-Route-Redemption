@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gipperion.github.io/Z-Route-Redemption/'
 locale = 'en-us'
 title = 'Z-Route Redemption'
 theme = 'hextra'
