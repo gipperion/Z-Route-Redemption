@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z-Route Redemption – Объекты на карте</title>
-    <link>http://localhost:1313/docs/map_objects/</link>
+    <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/</link>
     <description>Recent content in Объекты на карте on Z-Route Redemption</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/map_objects/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/Z-Route-Redemption/docs/map_objects/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Зомби</title>
-      <link>http://localhost:1313/docs/map_objects/zombies/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/zombies/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/zombies/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/zombies/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Наблюдатели</title>
-      <link>http://localhost:1313/docs/map_objects/observers/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/observers/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/observers/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/observers/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Пожиратели</title>
-      <link>http://localhost:1313/docs/map_objects/eaters/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/eaters/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/eaters/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/eaters/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Ресурсы</title>
-      <link>http://localhost:1313/docs/map_objects/resources/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/resources/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/resources/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/resources/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Ящики и поезда</title>
-      <link>http://localhost:1313/docs/map_objects/crates_and_trains/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates_and_trains/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/crates_and_trains/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates_and_trains/</guid>
       <description>
         
         
@@ -82,10 +82,10 @@
     
     <item>
       <title>Ящики спецопераций</title>
-      <link>http://localhost:1313/docs/map_objects/crates/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/crates/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates/</guid>
       <description>
         
         

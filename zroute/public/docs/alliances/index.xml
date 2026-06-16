@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z-Route Redemption – Альянсы</title>
-    <link>http://localhost:1313/docs/alliances/</link>
+    <link>http://localhost:1313/Z-Route-Redemption/docs/alliances/</link>
     <description>Recent content in Альянсы on Z-Route Redemption</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/alliances/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/Z-Route-Redemption/docs/alliances/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Правила альянсов</title>
-      <link>http://localhost:1313/docs/alliances/rules/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/alliances/rules/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/alliances/rules/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/alliances/rules/</guid>
       <description>
         
         

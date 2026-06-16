@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z-Route Redemption – Руководство по Z-Route</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:1313/Z-Route-Redemption/docs/</link>
     <description>Recent content in Руководство по Z-Route on Z-Route Redemption</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/Z-Route-Redemption/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Атака пожирателей</title>
-      <link>http://localhost:1313/docs/events/eaters_attack/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/eaters_attack/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/eaters_attack/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/eaters_attack/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Безумие экспедиции</title>
-      <link>http://localhost:1313/docs/events/expedition_battle/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/expedition_battle/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/expedition_battle/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/expedition_battle/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Битва альянсов</title>
-      <link>http://localhost:1313/docs/events/aliiance_battle/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/aliiance_battle/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/aliiance_battle/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/aliiance_battle/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Битва за Пандору</title>
-      <link>http://localhost:1313/docs/events/pandora/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/pandora/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/pandora/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/pandora/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Гигантский захватчик</title>
-      <link>http://localhost:1313/docs/events/giant_invader/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/giant_invader/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/giant_invader/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/giant_invader/</guid>
       <description>
         
         
@@ -82,10 +82,10 @@
     
     <item>
       <title>Засада альянса</title>
-      <link>http://localhost:1313/docs/events/aliiance_boss/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/events/aliiance_boss/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/events/aliiance_boss/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/events/aliiance_boss/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>Зомби</title>
-      <link>http://localhost:1313/docs/map_objects/zombies/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/zombies/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/zombies/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/zombies/</guid>
       <description>
         
         
@@ -108,10 +108,10 @@
     
     <item>
       <title>Как правильно строить</title>
-      <link>http://localhost:1313/docs/buildings/how_to_build/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/buildings/how_to_build/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/buildings/how_to_build/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/buildings/how_to_build/</guid>
       <description>
         
         
@@ -121,10 +121,10 @@
     
     <item>
       <title>Как правильно формировать отряды</title>
-      <link>http://localhost:1313/docs/pve/make_groups/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/pve/make_groups/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/pve/make_groups/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/pve/make_groups/</guid>
       <description>
         
         
@@ -134,10 +134,10 @@
     
     <item>
       <title>Как правильно формировать отряды</title>
-      <link>http://localhost:1313/docs/pvp/make_goups/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/pvp/make_goups/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/pvp/make_goups/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/pvp/make_goups/</guid>
       <description>
         
         
@@ -147,10 +147,10 @@
     
     <item>
       <title>Наблюдатели</title>
-      <link>http://localhost:1313/docs/map_objects/observers/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/observers/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/observers/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/observers/</guid>
       <description>
         
         
@@ -160,10 +160,10 @@
     
     <item>
       <title>Общая информация</title>
-      <link>http://localhost:1313/docs/overview/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/overview/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/overview/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/overview/</guid>
       <description>
         
         
@@ -173,10 +173,10 @@
     
     <item>
       <title>Пожиратели</title>
-      <link>http://localhost:1313/docs/map_objects/eaters/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/eaters/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/eaters/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/eaters/</guid>
       <description>
         
         
@@ -186,10 +186,10 @@
     
     <item>
       <title>Правила альянсов</title>
-      <link>http://localhost:1313/docs/alliances/rules/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/alliances/rules/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/alliances/rules/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/alliances/rules/</guid>
       <description>
         
         
@@ -199,10 +199,10 @@
     
     <item>
       <title>Приоритеты</title>
-      <link>http://localhost:1313/docs/buildings/priors/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/buildings/priors/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/buildings/priors/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/buildings/priors/</guid>
       <description>
         
         
@@ -212,10 +212,10 @@
     
     <item>
       <title>Прокачка</title>
-      <link>http://localhost:1313/docs/army/leveling/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/leveling/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/leveling/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/leveling/</guid>
       <description>
         
         
@@ -225,10 +225,10 @@
     
     <item>
       <title>Ресурсы</title>
-      <link>http://localhost:1313/docs/map_objects/resources/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/resources/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/resources/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/resources/</guid>
       <description>
         
         
@@ -238,10 +238,10 @@
     
     <item>
       <title>Солдаты</title>
-      <link>http://localhost:1313/docs/army/soldiers/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/soldiers/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/soldiers/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/soldiers/</guid>
       <description>
         
         
@@ -251,10 +251,23 @@
     
     <item>
       <title>Формирование отрядов</title>
-      <link>http://localhost:1313/docs/army/heroes/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/heroes/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/heroes/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/heroes/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Чаты</title>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/chatting/chats/</link>
+      <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/chatting/chats/</guid>
       <description>
         
         
@@ -264,10 +277,10 @@
     
     <item>
       <title>Ящики и поезда</title>
-      <link>http://localhost:1313/docs/map_objects/crates_and_trains/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates_and_trains/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/crates_and_trains/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates_and_trains/</guid>
       <description>
         
         
@@ -277,10 +290,10 @@
     
     <item>
       <title>Ящики спецопераций</title>
-      <link>http://localhost:1313/docs/map_objects/crates/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/map_objects/crates/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/map_objects/crates/</guid>
       <description>
         
         

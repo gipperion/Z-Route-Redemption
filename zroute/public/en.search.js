@@ -8,7 +8,7 @@
 // 
 
 (function () {
-  const searchDataURL = '/en.search-data.json';
+  const searchDataURL = '/Z-Route-Redemption/en.search-data.json';
 
   let pageIndex;
   let sectionIndex;

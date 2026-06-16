@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z-Route Redemption – PvE</title>
-    <link>http://localhost:1313/docs/pve/</link>
+    <link>http://localhost:1313/Z-Route-Redemption/docs/pve/</link>
     <description>Recent content in PvE on Z-Route Redemption</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/pve/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/Z-Route-Redemption/docs/pve/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Как правильно формировать отряды</title>
-      <link>http://localhost:1313/docs/pve/make_groups/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/pve/make_groups/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/pve/make_groups/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/pve/make_groups/</guid>
       <description>
         
         

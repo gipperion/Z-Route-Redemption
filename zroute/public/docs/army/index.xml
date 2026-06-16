@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z-Route Redemption – Отряды</title>
-    <link>http://localhost:1313/docs/army/</link>
+    <link>http://localhost:1313/Z-Route-Redemption/docs/army/</link>
     <description>Recent content in Отряды on Z-Route Redemption</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2026 20:56:27 +0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/army/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/Z-Route-Redemption/docs/army/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Прокачка</title>
-      <link>http://localhost:1313/docs/army/leveling/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/leveling/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/leveling/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/leveling/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Солдаты</title>
-      <link>http://localhost:1313/docs/army/soldiers/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/soldiers/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/soldiers/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/soldiers/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Формирование отрядов</title>
-      <link>http://localhost:1313/docs/army/heroes/</link>
+      <link>http://localhost:1313/Z-Route-Redemption/docs/army/heroes/</link>
       <pubDate>Mon, 15 Jun 2026 20:56:27 +0300</pubDate>
       
-      <guid>http://localhost:1313/docs/army/heroes/</guid>
+      <guid>http://localhost:1313/Z-Route-Redemption/docs/army/heroes/</guid>
       <description>
         
         
